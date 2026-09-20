@@ -26,7 +26,7 @@ The radiographs are not redistributed and the weights are too big to commit,
 so there are two steps between a clone and a running app.
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/omsrtech/DhanvantariVision.git
 cd DhanvantariVision
 python -m venv .venv
 .venv\Scripts\activate
