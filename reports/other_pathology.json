@@ -1,0 +1,72 @@
+{
+  "threshold": 0.5969619154930115,
+  "source": "NIH ChestX-ray14 (320px mirror)",
+  "groups": {
+    "No Finding": {
+      "n": 60,
+      "mean_prob": 0.5040742580002795,
+      "median_prob": 0.45804865658283234,
+      "flag_rate": 0.45
+    },
+    "Infiltration": {
+      "n": 60,
+      "mean_prob": 0.6391493066679687,
+      "median_prob": 0.7956324815750122,
+      "flag_rate": 0.6666666666666666
+    },
+    "Atelectasis": {
+      "n": 47,
+      "mean_prob": 0.4169790848518073,
+      "median_prob": 0.2201695591211319,
+      "flag_rate": 0.3829787234042553
+    },
+    "Effusion": {
+      "n": 47,
+      "mean_prob": 0.6591786537740498,
+      "median_prob": 0.8618814945220947,
+      "flag_rate": 0.6382978723404256
+    },
+    "Pneumothorax": {
+      "n": 45,
+      "mean_prob": 0.8013568037086063,
+      "median_prob": 0.9096665978431702,
+      "flag_rate": 0.8
+    },
+    "Cardiomegaly": {
+      "n": 23,
+      "mean_prob": 0.5587096077734199,
+      "median_prob": 0.7834336757659912,
+      "flag_rate": 0.5217391304347826
+    },
+    "Consolidation": {
+      "n": 20,
+      "mean_prob": 0.6982668579556048,
+      "median_prob": 0.7613321840763092,
+      "flag_rate": 0.7
+    },
+    "Pleural_Thickening": {
+      "n": 19,
+      "mean_prob": 0.41702494743329127,
+      "median_prob": 0.2255370318889618,
+      "flag_rate": 0.3684210526315789
+    },
+    "Fibrosis": {
+      "n": 16,
+      "mean_prob": 0.7904344303533435,
+      "median_prob": 0.9187923669815063,
+      "flag_rate": 0.875
+    },
+    "Nodule": {
+      "n": 16,
+      "mean_prob": 0.39167995496245567,
+      "median_prob": 0.05495975539088249,
+      "flag_rate": 0.375
+    },
+    "Emphysema": {
+      "n": 12,
+      "mean_prob": 0.4892835960102578,
+      "median_prob": 0.5371359884738922,
+      "flag_rate": 0.4166666666666667
+    }
+  }
+}

@@ -1,0 +1,45 @@
+# TBScope dependencies
+#
+# ============================================================================
+# ON THIS MACHINE: DO NOT PIP INSTALL ANYTHING. Use the existing CUDA venv.
+# ============================================================================
+#
+#   C:\Users\OM\Om\Projects\wake_engine\.venv\Scripts\python.exe
+#
+# That interpreter already has torch 2.11.0+cu128 (CUDA 12.8) working against
+# the RTX 3050, plus numpy, pandas, opencv, scikit-learn and requests.
+# Streamlit was added to it with the existing versions pinned, so nothing that
+# wake_engine depends on was upgraded or changed.
+#
+# Run everything with it directly, e.g.:
+#
+#   C:\Users\OM\Om\Projects\wake_engine\.venv\Scripts\python.exe -m streamlit run app.py
+#
+# or just use the bundled helper:  run.cmd
+#
+# Do NOT `pip install torch` into a fresh venv on this machine - pip defaults
+# to the CPU-only wheel, which is exactly what the base Python 3.14 install
+# already has (torch 2.11.0+cpu, cuda.is_available() == False). The GPU would
+# silently go unused.
+#
+# ============================================================================
+# ON A FRESH MACHINE: install torch from the CUDA index FIRST, then the rest.
+# ============================================================================
+#
+#   pip install torch==2.11.0 --index-url https://download.pytorch.org/whl/cu128
+#   pip install -r requirements.txt
+#
+# CPU-only works too (training is just slower - it was ~100s on the GPU for
+# 800 images); in that case plain `pip install torch` is fine.
+#
+# torchvision is deliberately NOT required: ResNet-18 is defined explicitly in
+# src/model.py and the official ImageNet weights are downloaded directly by
+# scripts/fetch_data.py. No Groq SDK either - Stage 2 is a plain requests POST.
+
+torch==2.11.0            # 2.11.0+cu128 in dev (CUDA 12.8, RTX 3050 6GB)
+numpy==2.4.6
+pandas==3.0.3
+opencv-python==4.13.0
+scikit-learn==1.9.0
+streamlit==1.63.0
+requests==2.34.2

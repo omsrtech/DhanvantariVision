@@ -1,0 +1,131 @@
+image_id,label,source,split,probability,decision,zone1,zone1_frac,zone2,zone2_frac,zone3,zone3_frac
+00019882_000,1,nih,test,0.98214,screen positive - refer for confirmatory testing,left mid zone,0.2899,left lower zone,0.2328,right mid zone,0.1796
+00027299_004,0,nih,test,0.97244,screen positive - refer for confirmatory testing,left mid zone,0.3178,left upper zone,0.24,right mid zone,0.1526
+00026963_003,1,nih,test,0.97168,screen positive - refer for confirmatory testing,right upper zone,0.2643,left mid zone,0.2208,right mid zone,0.2005
+00001255_028,0,nih,test,0.96944,screen positive - refer for confirmatory testing,left mid zone,0.237,right mid zone,0.2207,right upper zone,0.1925
+00015915_003,1,nih,test,0.93649,"screen positive, low confidence - human read required",left mid zone,0.3337,left upper zone,0.2186,left lower zone,0.1576
+00001170_003,0,nih,test,0.93037,"screen positive, low confidence - human read required",left mid zone,0.2345,right mid zone,0.1983,left upper zone,0.1864
+00014791_001,0,nih,test,0.9262,"screen positive, low confidence - human read required",left mid zone,0.3078,left upper zone,0.2487,right upper zone,0.1647
+00018006_026,1,nih,test,0.9256,"screen positive, low confidence - human read required",right upper zone,0.2657,left mid zone,0.2377,right mid zone,0.2178
+00030520_002,1,nih,test,0.9249,"screen positive, low confidence - human read required",left upper zone,0.3134,left mid zone,0.2614,right upper zone,0.1701
+00001075_001,0,nih,test,0.92472,"screen positive, low confidence - human read required",left mid zone,0.2705,right mid zone,0.2398,left upper zone,0.1401
+00026486_010,0,nih,test,0.92422,"screen positive, low confidence - human read required",right upper zone,0.2553,right mid zone,0.2216,left mid zone,0.2149
+00021074_000,1,nih,test,0.92325,"screen positive, low confidence - human read required",left mid zone,0.3296,left upper zone,0.2716,right upper zone,0.1408
+00029413_000,1,nih,test,0.91572,"screen positive, low confidence - human read required",left mid zone,0.3441,left upper zone,0.2317,left lower zone,0.1506
+00017324_030,1,nih,test,0.91546,"screen positive, low confidence - human read required",left mid zone,0.2292,right mid zone,0.2061,right upper zone,0.195
+00026963_019,0,nih,test,0.914,"screen positive, low confidence - human read required",right upper zone,0.2419,right mid zone,0.2402,left mid zone,0.2271
+00028357_030,1,nih,test,0.9139,"screen positive, low confidence - human read required",right upper zone,0.2251,right mid zone,0.2237,left upper zone,0.2005
+00022903_001,1,nih,test,0.91256,"screen positive, low confidence - human read required",left mid zone,0.2482,right upper zone,0.196,right mid zone,0.1885
+00017429_007,1,nih,test,0.91038,"screen positive, low confidence - human read required",left mid zone,0.34,left upper zone,0.2981,right mid zone,0.1232
+00020085_015,1,nih,test,0.90982,"screen positive, low confidence - human read required",left mid zone,0.3077,left upper zone,0.2376,left lower zone,0.2017
+00001075_002,1,nih,test,0.90955,"screen positive, low confidence - human read required",left mid zone,0.2826,left upper zone,0.2248,right upper zone,0.1813
+00016953_006,1,nih,test,0.90872,"screen positive, low confidence - human read required",right upper zone,0.2713,left mid zone,0.2377,left lower zone,0.162
+00020037_005,1,nih,test,0.9074,"screen positive, low confidence - human read required",left mid zone,0.282,right mid zone,0.1972,left upper zone,0.1856
+00013966_017,0,nih,test,0.90647,"screen positive, low confidence - human read required",left mid zone,0.3812,left upper zone,0.2608,left lower zone,0.1675
+00026524_013,1,nih,test,0.90398,"screen positive, low confidence - human read required",right mid zone,0.217,left mid zone,0.1976,left upper zone,0.1923
+00001170_002,0,nih,test,0.90125,"screen positive, low confidence - human read required",right mid zone,0.2337,right upper zone,0.2171,left mid zone,0.2073
+00001075_003,1,nih,test,0.90037,"screen positive, low confidence - human read required",right mid zone,0.271,left mid zone,0.2457,left lower zone,0.1815
+00025697_000,1,nih,test,0.89896,"screen positive, low confidence - human read required",left upper zone,0.304,left mid zone,0.2919,left lower zone,0.1304
+00000744_012,1,nih,test,0.89832,"screen positive, low confidence - human read required",left mid zone,0.2436,right mid zone,0.2316,left lower zone,0.1783
+00013737_001,1,nih,test,0.8978,"screen positive, low confidence - human read required",left mid zone,0.3875,left upper zone,0.3205,left lower zone,0.1829
+00001075_009,0,nih,test,0.89674,"screen positive, low confidence - human read required",left mid zone,0.2606,right mid zone,0.2223,right upper zone,0.1642
+00019519_001,1,nih,test,0.89561,"screen positive, low confidence - human read required",right mid zone,0.2402,left mid zone,0.2246,left lower zone,0.196
+00013924_004,0,nih,test,0.89492,"screen positive, low confidence - human read required",right mid zone,0.2725,left mid zone,0.2088,left lower zone,0.1412
+00017395_003,1,nih,test,0.89406,"screen positive, low confidence - human read required",left mid zone,0.3033,left upper zone,0.2261,right upper zone,0.1569
+00020326_023,1,nih,test,0.89317,"screen positive, low confidence - human read required",right mid zone,0.2962,right upper zone,0.2228,left mid zone,0.1721
+00015647_019,0,nih,test,0.89279,"screen positive, low confidence - human read required",left mid zone,0.3573,left upper zone,0.2177,left lower zone,0.2136
+00013523_002,1,nih,test,0.89204,"screen positive, low confidence - human read required",left mid zone,0.2947,left upper zone,0.23,right upper zone,0.1776
+00020458_034,0,nih,test,0.89094,"screen positive, low confidence - human read required",left mid zone,0.2458,right mid zone,0.1872,left upper zone,0.1813
+00025802_000,1,nih,test,0.89017,"screen positive, low confidence - human read required",right upper zone,0.303,right mid zone,0.2834,left mid zone,0.151
+00020326_087,0,nih,test,0.88968,"screen positive, low confidence - human read required",right upper zone,0.2399,right mid zone,0.2253,left mid zone,0.1883
+00015278_000,0,nih,test,0.88775,"screen positive, low confidence - human read required",left mid zone,0.3761,left upper zone,0.2335,left lower zone,0.1822
+00008964_002,0,nih,test,0.88768,"screen positive, low confidence - human read required",left mid zone,0.3269,left upper zone,0.2254,left lower zone,0.1968
+00028611_019,0,nih,test,0.88768,"screen positive, low confidence - human read required",left mid zone,0.2884,right mid zone,0.1988,left upper zone,0.1643
+00020458_029,1,nih,test,0.88555,"screen positive, low confidence - human read required",left mid zone,0.3154,left upper zone,0.2314,left lower zone,0.1532
+00011034_009,0,nih,test,0.88137,"screen positive, low confidence - human read required",right mid zone,0.248,left mid zone,0.2193,right upper zone,0.1898
+00025261_005,0,nih,test,0.88096,"screen positive, low confidence - human read required",left upper zone,0.2815,left mid zone,0.2785,right upper zone,0.204
+00017429_006,1,nih,test,0.87934,"screen positive, low confidence - human read required",left mid zone,0.3841,left upper zone,0.2307,left lower zone,0.1432
+00028359_002,1,nih,test,0.87811,"screen positive, low confidence - human read required",left mid zone,0.4065,left upper zone,0.229,left lower zone,0.1646
+00030152_004,0,nih,test,0.87772,"screen positive, low confidence - human read required",left mid zone,0.3026,left upper zone,0.282,right mid zone,0.1539
+00014571_007,0,nih,test,0.87769,"screen positive, low confidence - human read required",left mid zone,0.2815,left upper zone,0.1919,right mid zone,0.181
+00000744_008,1,nih,test,0.87563,"screen positive, low confidence - human read required",left mid zone,0.2539,right mid zone,0.241,right upper zone,0.1712
+00001075_004,1,nih,test,0.87329,"screen positive, low confidence - human read required",left mid zone,0.3345,left upper zone,0.2517,left lower zone,0.1344
+00008663_002,0,nih,test,0.87215,"screen positive, low confidence - human read required",left mid zone,0.386,left upper zone,0.2532,left lower zone,0.1606
+00000744_007,1,nih,test,0.87082,"screen positive, low confidence - human read required",left mid zone,0.2459,right mid zone,0.2231,right upper zone,0.204
+00000744_010,1,nih,test,0.87047,"screen positive, low confidence - human read required",left mid zone,0.2179,right mid zone,0.2156,left upper zone,0.202
+00015915_010,1,nih,test,0.87028,"screen positive, low confidence - human read required",left mid zone,0.3353,left upper zone,0.1863,left lower zone,0.1796
+00017470_001,1,nih,test,0.8688,"screen positive, low confidence - human read required",right upper zone,0.2355,left mid zone,0.2327,right mid zone,0.229
+00016643_010,1,nih,test,0.8687,"screen positive, low confidence - human read required",left mid zone,0.3079,left upper zone,0.1999,right mid zone,0.1805
+00023025_004,0,nih,test,0.86685,"screen positive, low confidence - human read required",left mid zone,0.3255,left upper zone,0.2528,left lower zone,0.1794
+00030152_005,0,nih,test,0.8668,"screen positive, low confidence - human read required",left mid zone,0.2987,left lower zone,0.2301,right mid zone,0.2079
+00025081_018,0,nih,test,0.86346,"screen positive, low confidence - human read required",left mid zone,0.227,right mid zone,0.2226,right upper zone,0.1805
+00020085_014,1,nih,test,0.86199,"screen positive, low confidence - human read required",left mid zone,0.3896,left upper zone,0.2978,left lower zone,0.2373
+00028357_037,1,nih,test,0.86059,"screen positive, low confidence - human read required",left mid zone,0.3463,left upper zone,0.3344,left lower zone,0.1735
+00001332_000,1,nih,test,0.86007,"screen positive, low confidence - human read required",left mid zone,0.295,left upper zone,0.2261,right mid zone,0.2105
+00001075_006,0,nih,test,0.8561,"screen positive, low confidence - human read required",left mid zone,0.3487,left upper zone,0.2548,right upper zone,0.1316
+00001170_032,0,nih,test,0.85502,"screen positive, low confidence - human read required",left mid zone,0.3022,left upper zone,0.2441,right mid zone,0.1684
+00001075_019,0,nih,test,0.85243,"screen positive, low confidence - human read required",left mid zone,0.3232,left lower zone,0.255,right mid zone,0.1574
+00008131_003,1,nih,test,0.8517,"screen positive, low confidence - human read required",left mid zone,0.4323,left lower zone,0.2307,left upper zone,0.1962
+00000078_000,0,nih,test,0.85102,"screen positive, low confidence - human read required",left mid zone,0.275,right mid zone,0.2145,left upper zone,0.1934
+00008777_000,1,nih,test,0.8474,"screen positive, low confidence - human read required",left mid zone,0.2889,right mid zone,0.2107,left lower zone,0.1991
+00025515_001,1,nih,test,0.84394,"screen positive, low confidence - human read required",right mid zone,0.2588,left mid zone,0.2262,left lower zone,0.1876
+00027578_001,0,nih,test,0.84185,"screen positive, low confidence - human read required",left mid zone,0.2849,right mid zone,0.2743,right upper zone,0.1504
+00019620_002,0,nih,test,0.84073,"screen positive, low confidence - human read required",left mid zone,0.3521,left lower zone,0.2375,left upper zone,0.1956
+00012937_004,0,nih,test,0.83877,"screen positive, low confidence - human read required",left mid zone,0.438,left lower zone,0.2579,left upper zone,0.1547
+00015915_007,1,nih,test,0.83846,"screen positive, low confidence - human read required",left mid zone,0.4008,left upper zone,0.239,left lower zone,0.1666
+00009912_006,0,nih,test,0.83828,"screen positive, low confidence - human read required",left upper zone,0.3381,left mid zone,0.3305,left lower zone,0.145
+00001153_003,0,nih,test,0.83721,"screen positive, low confidence - human read required",left mid zone,0.3831,left lower zone,0.2114,left upper zone,0.2049
+00007121_005,1,nih,test,0.83535,"screen positive, low confidence - human read required",left upper zone,0.4325,left mid zone,0.3868,left lower zone,0.1263
+00025623_003,0,nih,test,0.83418,"screen positive, low confidence - human read required",left mid zone,0.2504,left upper zone,0.1951,right mid zone,0.1817
+00026759_003,0,nih,test,0.82961,"screen positive, low confidence - human read required",left mid zone,0.3428,left lower zone,0.2056,left upper zone,0.1848
+00000710_000,1,nih,test,0.82574,"screen positive, low confidence - human read required",left mid zone,0.3373,left upper zone,0.2961,right mid zone,0.1375
+00001075_024,1,nih,test,0.82439,"screen positive, low confidence - human read required",left mid zone,0.4275,left upper zone,0.3268,left lower zone,0.116
+00008561_010,0,nih,test,0.82377,"screen positive, low confidence - human read required",left mid zone,0.2572,left upper zone,0.1917,left lower zone,0.1913
+00017227_005,1,nih,test,0.82193,"screen positive, low confidence - human read required",left mid zone,0.3025,left upper zone,0.2362,right upper zone,0.1631
+00017587_001,1,nih,test,0.82103,"screen positive, low confidence - human read required",left mid zone,0.3175,left lower zone,0.278,left upper zone,0.2294
+00025097_006,0,nih,test,0.8193,"screen positive, low confidence - human read required",left mid zone,0.2503,right mid zone,0.2061,left lower zone,0.2059
+00025897_001,0,nih,test,0.81726,"screen positive, low confidence - human read required",left upper zone,0.3072,left mid zone,0.2731,right upper zone,0.1901
+00000643_008,1,nih,test,0.81541,"screen positive, low confidence - human read required",left mid zone,0.3481,right mid zone,0.2244,left lower zone,0.1625
+00019492_002,0,nih,test,0.81155,"screen positive, low confidence - human read required",left mid zone,0.4164,left upper zone,0.1949,left lower zone,0.1921
+00017212_000,0,nih,test,0.81036,"screen positive, low confidence - human read required",left mid zone,0.3838,left upper zone,0.2849,left lower zone,0.2176
+00000744_009,1,nih,test,0.80807,"screen positive, low confidence - human read required",right mid zone,0.2853,right upper zone,0.2191,left mid zone,0.2128
+00017436_002,0,nih,test,0.8067,"screen positive, low confidence - human read required",left mid zone,0.2464,right mid zone,0.2332,right upper zone,0.1941
+00009185_001,1,nih,test,0.80291,"screen positive, low confidence - human read required",left mid zone,0.3747,left lower zone,0.2434,right mid zone,0.1356
+00009034_005,0,nih,test,0.80278,"screen positive, low confidence - human read required",right mid zone,0.2454,left mid zone,0.2443,left upper zone,0.1779
+00018006_009,0,nih,test,0.79943,"screen positive, low confidence - human read required",left mid zone,0.3359,left lower zone,0.2858,right mid zone,0.1515
+00010093_000,0,nih,test,0.79838,"screen positive, low confidence - human read required",right mid zone,0.2658,left lower zone,0.2259,left mid zone,0.1963
+00015321_004,1,nih,test,0.79475,"screen positive, low confidence - human read required",left mid zone,0.359,left lower zone,0.2719,right mid zone,0.147
+00000808_007,0,nih,test,0.25452,"screen negative, low confidence - human read required",left lower zone,0.4846,left mid zone,0.4755,left upper zone,0.0361
+00014818_000,0,nih,test,0.25156,"screen negative, low confidence - human read required",left upper zone,0.8737,left mid zone,0.1257,right upper zone,0.0003
+00028386_000,0,nih,test,0.25109,"screen negative, low confidence - human read required",left upper zone,0.9981,left mid zone,0.0015,right upper zone,0.0004
+00015885_003,0,nih,test,0.24608,"screen negative, low confidence - human read required",left upper zone,0.5059,left mid zone,0.4017,left lower zone,0.0546
+00000963_015,1,nih,test,0.2379,"screen negative, low confidence - human read required",left lower zone,0.7446,left mid zone,0.242,right upper zone,0.009
+00020480_000,0,nih,test,0.2359,"screen negative, low confidence - human read required",left mid zone,0.5483,left lower zone,0.2528,left upper zone,0.1988
+00022299_000,0,nih,test,0.23094,"screen negative, low confidence - human read required",right mid zone,0.3466,left upper zone,0.257,right upper zone,0.2478
+00015413_001,0,nih,test,0.22832,"screen negative, low confidence - human read required",left mid zone,0.4416,left lower zone,0.3965,left upper zone,0.1617
+00020666_000,0,nih,test,0.22524,"screen negative, low confidence - human read required",left lower zone,0.3548,left mid zone,0.3485,left upper zone,0.2964
+00020900_010,0,nih,test,0.22353,"screen negative, low confidence - human read required",left lower zone,0.2704,left mid zone,0.2502,right upper zone,0.1967
+00000533_000,0,nih,test,0.2147,"screen negative, low confidence - human read required",left upper zone,0.5186,right mid zone,0.2389,right upper zone,0.1628
+00001039_002,0,nih,test,0.21237,"screen negative, low confidence - human read required",left lower zone,0.7632,left mid zone,0.2363,right mid zone,0.0005
+00010475_014,0,nih,test,0.21119,"screen negative, low confidence - human read required",left lower zone,0.5093,left mid zone,0.3396,left upper zone,0.0816
+00014537_000,0,nih,test,0.21083,"screen negative, low confidence - human read required",left upper zone,0.69,left mid zone,0.2618,right upper zone,0.0478
+00013551_000,0,nih,test,0.20941,"screen negative, low confidence - human read required",left upper zone,0.6185,left mid zone,0.2768,right upper zone,0.0684
+00010586_002,1,nih,test,0.20788,"screen negative, low confidence - human read required",left upper zone,0.7815,left mid zone,0.2152,left lower zone,0.0032
+00006705_005,0,nih,test,0.20638,"screen negative, low confidence - human read required",left lower zone,0.944,left mid zone,0.0252,right lower zone,0.0231
+00017067_000,0,nih,test,0.19562,"screen negative, low confidence - human read required",left upper zone,0.7713,right upper zone,0.121,left mid zone,0.0836
+00022309_007,0,nih,test,0.19421,"screen negative, low confidence - human read required",left upper zone,0.8348,left mid zone,0.165,left lower zone,0.0002
+00001075_040,0,nih,test,0.19215,"screen negative, low confidence - human read required",left lower zone,0.5912,left mid zone,0.3954,left upper zone,0.013
+00016831_005,0,nih,test,0.18482,"screen negative, low confidence - human read required",no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+00007716_005,1,nih,test,0.08713,screen negative,left upper zone,0.5669,left mid zone,0.2725,left lower zone,0.1605
+00024962_000,0,nih,test,0.08591,screen negative,left upper zone,0.7548,left mid zone,0.2448,left lower zone,0.0004
+00013385_000,1,nih,test,0.08572,screen negative,left lower zone,0.88,left mid zone,0.1195,right mid zone,0.0004
+00019682_000,1,nih,test,0.08246,screen negative,left upper zone,0.9975,left mid zone,0.0025,right upper zone,0.0
+00013212_001,0,nih,test,0.08016,screen negative,left upper zone,0.9583,right upper zone,0.0231,left mid zone,0.0093
+00021891_000,0,nih,test,0.07977,screen negative,left upper zone,0.9363,left mid zone,0.0633,right upper zone,0.0004
+00012815_007,0,nih,test,0.07963,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+00024675_001,0,nih,test,0.07902,screen negative,left upper zone,0.9013,left mid zone,0.0987,right upper zone,0.0
+00029198_001,0,nih,test,0.07862,screen negative,left upper zone,0.7881,left mid zone,0.1891,left lower zone,0.0228
+00024586_000,0,nih,test,0.07018,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+00008056_008,0,nih,test,0.06979,screen negative,left upper zone,0.9295,left mid zone,0.0704,right upper zone,0.0001
+00025780_001,0,nih,test,0.06198,screen negative,left mid zone,0.4979,left upper zone,0.3259,left lower zone,0.1762
+00019682_002,0,nih,test,0.06167,screen negative,left lower zone,0.9964,left mid zone,0.0026,right lower zone,0.001

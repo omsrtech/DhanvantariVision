@@ -1,0 +1,121 @@
+image_id,label,source,split,probability,decision,zone1,zone1_frac,zone2,zone2_frac,zone3,zone3_frac
+CHNCXR_0573_1,1,shenzhen,test,0.99997,screen positive - refer for confirmatory testing,right upper zone,0.2307,left mid zone,0.2084,right mid zone,0.2066
+CHNCXR_0555_1,1,shenzhen,test,0.99992,screen positive - refer for confirmatory testing,right mid zone,0.2223,left mid zone,0.2121,right upper zone,0.1839
+CHNCXR_0457_1,1,shenzhen,test,0.99989,screen positive - refer for confirmatory testing,right upper zone,0.2241,left upper zone,0.2023,left mid zone,0.1933
+CHNCXR_0382_1,1,shenzhen,test,0.99984,screen positive - refer for confirmatory testing,right upper zone,0.2497,left upper zone,0.2315,right mid zone,0.2288
+CHNCXR_0610_1,1,shenzhen,test,0.99983,screen positive - refer for confirmatory testing,right mid zone,0.2423,right upper zone,0.1971,right lower zone,0.1577
+CHNCXR_0425_1,1,shenzhen,test,0.99982,screen positive - refer for confirmatory testing,left upper zone,0.2823,left mid zone,0.2651,left lower zone,0.1749
+CHNCXR_0468_1,1,shenzhen,test,0.9998,screen positive - refer for confirmatory testing,right mid zone,0.2488,right upper zone,0.1922,right lower zone,0.1866
+CHNCXR_0481_1,1,shenzhen,test,0.9998,screen positive - refer for confirmatory testing,left mid zone,0.2488,right upper zone,0.2211,left upper zone,0.2134
+CHNCXR_0521_1,1,shenzhen,test,0.99979,screen positive - refer for confirmatory testing,left mid zone,0.2571,left upper zone,0.2062,right mid zone,0.1773
+CHNCXR_0648_1,1,shenzhen,test,0.99978,screen positive - refer for confirmatory testing,left mid zone,0.2049,right mid zone,0.1917,left upper zone,0.1777
+CHNCXR_0559_1,1,shenzhen,test,0.99978,screen positive - refer for confirmatory testing,right upper zone,0.234,right mid zone,0.2087,left mid zone,0.1825
+CHNCXR_0432_1,1,shenzhen,test,0.99976,screen positive - refer for confirmatory testing,left upper zone,0.2682,left mid zone,0.2404,right upper zone,0.1608
+CHNCXR_0653_1,1,shenzhen,test,0.99973,screen positive - refer for confirmatory testing,right upper zone,0.2712,right mid zone,0.2586,left upper zone,0.1913
+CHNCXR_0403_1,1,shenzhen,test,0.99965,screen positive - refer for confirmatory testing,right mid zone,0.2548,right upper zone,0.2457,left mid zone,0.1778
+CHNCXR_0355_1,1,shenzhen,test,0.99965,screen positive - refer for confirmatory testing,left upper zone,0.2228,left mid zone,0.2121,right upper zone,0.2065
+MCUCXR_0255_1,1,montgomery,test,0.99963,screen positive - refer for confirmatory testing,right upper zone,0.2613,right mid zone,0.248,left mid zone,0.1545
+CHNCXR_0378_1,1,shenzhen,test,0.99958,screen positive - refer for confirmatory testing,left upper zone,0.2644,right upper zone,0.2589,right mid zone,0.2133
+MCUCXR_0282_1,1,montgomery,test,0.99946,screen positive - refer for confirmatory testing,right upper zone,0.3846,right mid zone,0.2217,left mid zone,0.1556
+CHNCXR_0547_1,1,shenzhen,test,0.99909,screen positive - refer for confirmatory testing,left upper zone,0.2908,left mid zone,0.2523,right upper zone,0.1692
+CHNCXR_0550_1,1,shenzhen,test,0.99909,screen positive - refer for confirmatory testing,right mid zone,0.2344,right upper zone,0.2259,left upper zone,0.2095
+MCUCXR_0309_1,1,montgomery,test,0.99898,screen positive - refer for confirmatory testing,right upper zone,0.2543,left upper zone,0.2436,left mid zone,0.2341
+CHNCXR_0581_1,1,shenzhen,test,0.99882,screen positive - refer for confirmatory testing,left upper zone,0.2834,left mid zone,0.2662,left lower zone,0.1677
+CHNCXR_0570_1,1,shenzhen,test,0.99863,screen positive - refer for confirmatory testing,left mid zone,0.2511,left upper zone,0.2002,right upper zone,0.1967
+MCUCXR_0218_1,1,montgomery,test,0.99851,screen positive - refer for confirmatory testing,right upper zone,0.3311,left upper zone,0.2152,left mid zone,0.2054
+CHNCXR_0408_1,1,shenzhen,test,0.99793,screen positive - refer for confirmatory testing,left upper zone,0.2786,right upper zone,0.2195,right mid zone,0.2104
+CHNCXR_0399_1,1,shenzhen,test,0.99781,screen positive - refer for confirmatory testing,left upper zone,0.3364,right upper zone,0.2353,left mid zone,0.2055
+CHNCXR_0580_1,1,shenzhen,test,0.99702,screen positive - refer for confirmatory testing,left upper zone,0.39,left mid zone,0.3267,left lower zone,0.108
+CHNCXR_0466_1,1,shenzhen,test,0.99614,screen positive - refer for confirmatory testing,left upper zone,0.3759,left mid zone,0.2483,right upper zone,0.1182
+CHNCXR_0473_1,1,shenzhen,test,0.99489,screen positive - refer for confirmatory testing,right mid zone,0.2083,right upper zone,0.2024,left upper zone,0.1814
+CHNCXR_0596_1,1,shenzhen,test,0.99475,screen positive - refer for confirmatory testing,left upper zone,0.3172,right upper zone,0.2999,left mid zone,0.1908
+CHNCXR_0494_1,1,shenzhen,test,0.99404,screen positive - refer for confirmatory testing,right lower zone,0.2602,right mid zone,0.2322,left lower zone,0.2268
+CHNCXR_0449_1,1,shenzhen,test,0.99366,screen positive - refer for confirmatory testing,right mid zone,0.3701,right upper zone,0.3096,right lower zone,0.1207
+CHNCXR_0430_1,1,shenzhen,test,0.99268,screen positive - refer for confirmatory testing,right upper zone,0.3957,left upper zone,0.2558,right mid zone,0.2218
+CHNCXR_0592_1,1,shenzhen,test,0.99268,screen positive - refer for confirmatory testing,left upper zone,0.3646,left mid zone,0.3093,right upper zone,0.1391
+CHNCXR_0429_1,1,shenzhen,test,0.98975,screen positive - refer for confirmatory testing,left upper zone,0.4815,left mid zone,0.219,right upper zone,0.1392
+CHNCXR_0363_1,1,shenzhen,test,0.98605,"screen positive, low confidence - human read required",right mid zone,0.2953,right upper zone,0.2418,right lower zone,0.2231
+CHNCXR_0441_1,1,shenzhen,test,0.98555,"screen positive, low confidence - human read required",right mid zone,0.2789,left mid zone,0.2246,right upper zone,0.2155
+CHNCXR_0645_1,1,shenzhen,test,0.98526,"screen positive, low confidence - human read required",left upper zone,0.3091,right upper zone,0.236,left mid zone,0.2239
+CHNCXR_0366_1,1,shenzhen,test,0.97795,"screen positive, low confidence - human read required",left upper zone,0.3635,right upper zone,0.291,left mid zone,0.1853
+CHNCXR_0625_1,1,shenzhen,test,0.9753,"screen positive, low confidence - human read required",right upper zone,0.3331,right mid zone,0.2276,left lower zone,0.1508
+CHNCXR_0261_0,0,shenzhen,test,0.95372,"screen positive, low confidence - human read required",left mid zone,0.4103,left upper zone,0.3165,left lower zone,0.1443
+CHNCXR_0491_1,1,shenzhen,test,0.94655,"screen positive, low confidence - human read required",left upper zone,0.3163,right upper zone,0.2718,left mid zone,0.2181
+CHNCXR_0414_1,1,shenzhen,test,0.94476,"screen positive, low confidence - human read required",right upper zone,0.4676,right mid zone,0.3227,left mid zone,0.0841
+MCUCXR_0117_1,1,montgomery,test,0.93185,"screen positive, low confidence - human read required",right mid zone,0.3125,right upper zone,0.2858,left mid zone,0.204
+CHNCXR_0463_1,1,shenzhen,test,0.92603,"screen positive, low confidence - human read required",right lower zone,0.217,left lower zone,0.2006,left mid zone,0.1887
+CHNCXR_0020_0,0,shenzhen,test,0.9224,"screen positive, low confidence - human read required",left mid zone,0.2728,left lower zone,0.2717,left upper zone,0.1699
+CHNCXR_0416_1,1,shenzhen,test,0.91337,"screen positive, low confidence - human read required",right upper zone,0.4354,right mid zone,0.322,left upper zone,0.1594
+CHNCXR_0435_1,1,shenzhen,test,0.90563,"screen positive, low confidence - human read required",left upper zone,0.2933,left mid zone,0.2824,right upper zone,0.2278
+CHNCXR_0615_1,1,shenzhen,test,0.83713,"screen positive, low confidence - human read required",right mid zone,0.3977,right lower zone,0.2597,right upper zone,0.1962
+MCUCXR_0019_0,0,montgomery,test,0.82663,"screen positive, low confidence - human read required",left upper zone,0.4763,left mid zone,0.4099,right upper zone,0.0429
+MCUCXR_0022_0,0,montgomery,test,0.79881,"screen positive, low confidence - human read required",right upper zone,0.5383,left upper zone,0.2185,right mid zone,0.1706
+CHNCXR_0419_1,1,shenzhen,test,0.7801,"screen positive, low confidence - human read required",left upper zone,0.3986,right upper zone,0.3357,left mid zone,0.1871
+CHNCXR_0122_0,0,shenzhen,test,0.67409,"screen positive, low confidence - human read required",left mid zone,0.36,left upper zone,0.2366,right mid zone,0.1649
+CHNCXR_0182_0,0,shenzhen,test,0.63473,"screen positive, low confidence - human read required",right upper zone,0.5275,right mid zone,0.2957,left upper zone,0.0974
+CHNCXR_0393_1,1,shenzhen,test,0.63269,"screen positive, low confidence - human read required",right lower zone,0.3274,right mid zone,0.2738,right upper zone,0.2139
+CHNCXR_0012_0,0,shenzhen,test,0.62592,"screen positive, low confidence - human read required",right upper zone,0.391,left upper zone,0.2401,right mid zone,0.2383
+MCUCXR_0104_1,1,montgomery,test,0.5319,"screen negative, low confidence - human read required",left upper zone,0.6977,left mid zone,0.2231,right upper zone,0.0741
+CHNCXR_0208_0,0,shenzhen,test,0.52741,"screen negative, low confidence - human read required",right lower zone,0.4933,right mid zone,0.3679,left lower zone,0.1038
+CHNCXR_0058_0,0,shenzhen,test,0.42275,"screen negative, low confidence - human read required",right upper zone,0.4773,right mid zone,0.4556,right lower zone,0.0556
+CHNCXR_0601_1,1,shenzhen,test,0.37182,"screen negative, low confidence - human read required",left upper zone,0.493,left mid zone,0.2462,left lower zone,0.2371
+MCUCXR_0195_1,1,montgomery,test,0.36815,"screen negative, low confidence - human read required",left mid zone,0.4931,left upper zone,0.3051,left lower zone,0.0664
+CHNCXR_0584_1,1,shenzhen,test,0.3278,"screen negative, low confidence - human read required",left lower zone,0.6214,left mid zone,0.3098,left upper zone,0.0544
+MCUCXR_0383_1,1,montgomery,test,0.28212,"screen negative, low confidence - human read required",left mid zone,0.4429,left upper zone,0.3565,right mid zone,0.1186
+CHNCXR_0140_0,0,shenzhen,test,0.21251,"screen negative, low confidence - human read required",right lower zone,0.381,left lower zone,0.2776,right mid zone,0.2333
+CHNCXR_0187_0,0,shenzhen,test,0.13207,"screen negative, low confidence - human read required",no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0368_1,1,shenzhen,test,0.11544,screen negative,left lower zone,0.6013,left mid zone,0.3232,right lower zone,0.0718
+MCUCXR_0003_0,0,montgomery,test,0.11124,screen negative,right lower zone,0.4051,left lower zone,0.2288,right mid zone,0.1895
+CHNCXR_0221_0,0,shenzhen,test,0.07902,screen negative,left upper zone,0.5,right upper zone,0.5,right mid zone,0.0
+MCUCXR_0081_0,0,montgomery,test,0.06696,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0152_0,0,shenzhen,test,0.04621,screen negative,right mid zone,0.5567,right lower zone,0.2949,right upper zone,0.1484
+MCUCXR_0069_0,0,montgomery,test,0.04193,screen negative,left lower zone,0.5969,left mid zone,0.4023,right mid zone,0.0007
+MCUCXR_0052_0,0,montgomery,test,0.03461,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0126_0,0,shenzhen,test,0.03412,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+MCUCXR_0352_1,1,montgomery,test,0.03367,screen negative,right upper zone,0.9957,left upper zone,0.0043,right mid zone,0.0001
+CHNCXR_0239_0,0,shenzhen,test,0.0313,screen negative,left upper zone,0.7108,left mid zone,0.2832,right mid zone,0.0052
+CHNCXR_0096_0,0,shenzhen,test,0.02965,screen negative,right upper zone,0.9953,right mid zone,0.002,left mid zone,0.002
+CHNCXR_0081_0,0,shenzhen,test,0.02873,screen negative,right mid zone,0.4635,right lower zone,0.3995,left lower zone,0.0927
+CHNCXR_0177_0,0,shenzhen,test,0.02609,screen negative,left lower zone,0.6621,left mid zone,0.315,right lower zone,0.0203
+CHNCXR_0400_1,1,shenzhen,test,0.02186,screen negative,left lower zone,0.6954,right lower zone,0.2529,right mid zone,0.0515
+CHNCXR_0073_0,0,shenzhen,test,0.02073,screen negative,right lower zone,0.9963,left mid zone,0.003,right mid zone,0.0008
+CHNCXR_0063_0,0,shenzhen,test,0.01824,screen negative,right mid zone,0.5477,right lower zone,0.452,right upper zone,0.0002
+MCUCXR_0045_0,0,montgomery,test,0.01717,screen negative,left lower zone,0.9428,left upper zone,0.0547,right lower zone,0.0025
+CHNCXR_0029_0,0,shenzhen,test,0.01454,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0146_0,0,shenzhen,test,0.01245,screen negative,right lower zone,0.517,left lower zone,0.4819,left mid zone,0.0006
+CHNCXR_0334_1,1,shenzhen,test,0.01208,screen negative,right lower zone,0.6564,right mid zone,0.3399,right upper zone,0.0037
+CHNCXR_0293_0,0,shenzhen,test,0.01033,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0053_0,0,shenzhen,test,0.00971,screen negative,right upper zone,0.657,right lower zone,0.34,right mid zone,0.0016
+CHNCXR_0180_0,0,shenzhen,test,0.00827,screen negative,right lower zone,0.996,right mid zone,0.004,right upper zone,0.0
+MCUCXR_0006_0,0,montgomery,test,0.008,screen negative,right lower zone,1.0,right mid zone,0.0,right upper zone,0.0
+MCUCXR_0082_0,0,montgomery,test,0.00661,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+MCUCXR_0068_0,0,montgomery,test,0.00552,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0001_0,0,shenzhen,test,0.00514,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0223_0,0,shenzhen,test,0.0047,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0094_0,0,shenzhen,test,0.00431,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0325_0,0,shenzhen,test,0.00422,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0044_0,0,shenzhen,test,0.00419,screen negative,right lower zone,0.9284,right mid zone,0.0715,right upper zone,0.0
+MCUCXR_0061_0,0,montgomery,test,0.00328,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0158_0,0,shenzhen,test,0.00302,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0175_0,0,shenzhen,test,0.00275,screen negative,right mid zone,0.5231,right lower zone,0.475,left mid zone,0.0017
+CHNCXR_0288_0,0,shenzhen,test,0.00267,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0077_0,0,shenzhen,test,0.00265,screen negative,right lower zone,0.7962,right mid zone,0.2037,left mid zone,0.0002
+CHNCXR_0232_0,0,shenzhen,test,0.0016,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0086_0,0,shenzhen,test,0.00147,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0033_0,0,shenzhen,test,0.00141,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0257_0,0,shenzhen,test,0.00129,screen negative,left mid zone,0.5477,left lower zone,0.452,left upper zone,0.0002
+CHNCXR_0318_0,0,shenzhen,test,0.00116,screen negative,left lower zone,0.9981,left mid zone,0.0019,right upper zone,0.0
+CHNCXR_0317_0,0,shenzhen,test,0.00112,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0104_0,0,shenzhen,test,0.00106,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0025_0,0,shenzhen,test,0.00106,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+MCUCXR_0084_0,0,montgomery,test,0.001,screen negative,right lower zone,0.7628,left lower zone,0.2372,left mid zone,0.0
+CHNCXR_0271_0,0,shenzhen,test,0.00091,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0064_0,0,shenzhen,test,0.00068,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0275_0,0,shenzhen,test,0.00049,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0004_0,0,shenzhen,test,0.00046,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0162_0,0,shenzhen,test,0.00039,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0270_0,0,shenzhen,test,0.00038,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0138_0,0,shenzhen,test,0.00031,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0504_1,1,shenzhen,test,0.00027,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0280_0,0,shenzhen,test,0.00019,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0
+CHNCXR_0186_0,0,shenzhen,test,0.00018,screen negative,no localised attention,0.0,no localised attention,0.0,no localised attention,0.0

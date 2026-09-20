@@ -1,0 +1,33 @@
+# ---------------------------------------------------------------
+#  OPTIONAL: your own Groq API key
+#  Dhanvantari Vision - OMSR Technologies - omsrtech.com
+# ---------------------------------------------------------------
+#
+#  The app works fine without this. Leave the file as it is and
+#  every result still gets a written clinical note, built from a
+#  template using the model's own numbers. The app labels those
+#  notes "Template - grounded" on screen so nothing is hidden.
+#
+#  Adding a key switches those notes over to an AI model, which
+#  writes them in more natural clinical prose. It changes only the
+#  WORDING. It never changes the score, the decision, or anything
+#  the model measured.
+#
+#  TO ADD A KEY
+#  1. Get a free key at  https://console.groq.com/keys
+#     (it starts with  gsk_ )
+#  2. Paste it on the line below, replacing the example.
+#  3. Save this file and restart the app.
+#
+#  Either format works:
+#       gsk_your_key_here
+#  or   GROQ_API_KEY=gsk_your_key_here
+#
+#  The sidebar tells you whether a key was picked up, and where
+#  it was read from.
+#
+#  Keep this file private - a key is like a password. It stays on
+#  this computer and is never sent anywhere except to Groq.
+# ---------------------------------------------------------------
+
+GROQ_API_KEY=

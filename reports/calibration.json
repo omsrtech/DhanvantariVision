@@ -1,0 +1,62 @@
+{
+  "pooled": {
+    "auroc": 0.9447068630175048,
+    "ci": [
+      0.8996770897557392,
+      0.980507500211411
+    ],
+    "at_operating_point": {
+      "threshold": 0.5969619154930115,
+      "sensitivity": 0.8305084745762712,
+      "specificity": 0.8852459016393442
+    }
+  },
+  "cross_site": {
+    "auroc": 0.8984913793103448,
+    "ci": [
+      0.8395268367622073,
+      0.947206229562787
+    ],
+    "threshold_imported_from_source_site": {
+      "threshold": 0.043936531990766525,
+      "sensitivity": 0.9827586206896551,
+      "specificity": 0.225,
+      "tp": 57,
+      "fp": 62,
+      "tn": 18,
+      "fn": 1
+    },
+    "threshold_refit_on_target_site": {
+      "threshold": 0.25238,
+      "sensitivity": 0.9137931034482759,
+      "specificity": 0.6875,
+      "tp": 53,
+      "fp": 25,
+      "tn": 55,
+      "fn": 5
+    }
+  },
+  "score_shift": {
+    "pooled_mean_score_normal": 0.12209524590163935,
+    "crosssite_mean_score_normal": 0.223752125,
+    "pooled_mean_score_tb": 0.8429015254237288,
+    "crosssite_mean_score_tb": 0.7618413793103449
+  },
+  "local_recalibration": {
+    "local_sample_20": {
+      "median_sensitivity": 0.8968962585034014,
+      "median_specificity": 0.664319248826291,
+      "n_trials": 300
+    },
+    "local_sample_40": {
+      "median_sensitivity": 0.8974358974358975,
+      "median_specificity": 0.6833333333333333,
+      "n_trials": 300
+    },
+    "local_sample_80": {
+      "median_sensitivity": 0.9047619047619048,
+      "median_specificity": 0.6666666666666666,
+      "n_trials": 300
+    }
+  }
+}

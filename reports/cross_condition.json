@@ -1,0 +1,54 @@
+{
+  "TB model on TB films (Montgomery+Shenzhen)": {
+    "n": 260,
+    "auroc_on_that_set_labels": 0.9947259259259259,
+    "ci95": [
+      0.9877834647465695,
+      0.9994659070678299
+    ],
+    "mean_score_positive": 0.9644143050312995,
+    "mean_score_negative": 0.04252701769332311,
+    "flag_rate_positive": 0.968,
+    "flag_rate_negative": 0.037037037037037035,
+    "threshold": 0.5969619154930115
+  },
+  "TB model on NIH films (nodule/mass set)": {
+    "n": 260,
+    "auroc_on_that_set_labels": 0.71,
+    "ci95": [
+      0.644962229017089,
+      0.7757397393383207
+    ],
+    "mean_score_positive": 0.5151522012776695,
+    "mean_score_negative": 0.24737166997102678,
+    "flag_rate_positive": 0.5,
+    "flag_rate_negative": 0.18888888888888888,
+    "threshold": 0.5969619154930115
+  },
+  "nodule model on TB films (Montgomery+Shenzhen)": {
+    "n": 260,
+    "auroc_on_that_set_labels": 0.6086518518518519,
+    "ci95": [
+      0.539489673580272,
+      0.6732812685245411
+    ],
+    "mean_score_positive": 0.40242002937942745,
+    "mean_score_negative": 0.28218114123576216,
+    "flag_rate_positive": 0.56,
+    "flag_rate_negative": 0.43703703703703706,
+    "threshold": 0.2577650845050812
+  },
+  "nodule model on NIH films (nodule/mass set)": {
+    "n": 260,
+    "auroc_on_that_set_labels": 0.8544444444444445,
+    "ci95": [
+      0.8025392506142506,
+      0.898760812656499
+    ],
+    "mean_score_positive": 0.7370955904014409,
+    "mean_score_negative": 0.3505088252532813,
+    "flag_rate_positive": 0.9375,
+    "flag_rate_negative": 0.5277777777777778,
+    "threshold": 0.2577650845050812
+  }
+}
